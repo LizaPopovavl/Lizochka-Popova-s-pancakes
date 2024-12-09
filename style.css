@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Parkinsans:wght@300..800&display=swap');
+
+body{
+background-color: hwb(56 26% 6%); 
+}
+
+.h3{
+    font-family: "Anton", sans-serif;
+}
+
+ul{
+    display: flexbox;
+}
+
